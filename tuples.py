@@ -8,10 +8,12 @@ print(tuple1 + tuple2)
 print(tuple1*3)
 print(len(tuple1))
 
+
 tuple3=(22,34,56,78,11,19)
 print(tuple3)
 print(min(tuple3))
 print(max(tuple3))
+
 
 list1=[12,13,45,67]
 print(list1)
